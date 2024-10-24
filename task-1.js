@@ -11,3 +11,5 @@ const book = {
 // change the `read` property from false to true
 
 // write your code here:
+book.read = true;
+console.log(book);
